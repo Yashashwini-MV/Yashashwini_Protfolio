@@ -1,6 +1,6 @@
 import React, { useRef } from 'react';
 import { Canvas, useFrame } from '@react-three/fiber';
-import { OrbitControls, Sphere, MeshDistortMaterial, Float } from '@react-three/drei';
+import { Sphere, Float } from '@react-three/drei';
 import * as THREE from 'three';
 
 /* -------- Animated Avatar Mesh -------- */
