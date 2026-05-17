@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import Scene3D from './Scene3D';
 import Avatar3D from './Avatar3D';
 import './Hero.css';
